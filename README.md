@@ -12,7 +12,7 @@ Welcome to the Screen Recorder App! This easy-to-use tool allows you to record y
 - [https://cloudconvert.com/mp4-converter](https://cloudconvert.com/mp4-converter)
 - [https://www.freeconvert.com/](https://www.freeconvert.com/)
 
-### [Click To Download: Bubbles_The_Dev-Screen-Recorder-App.EXE](https://github.com/KernFerm/screen-recorder-app/releases/tag/recorder)
+### [Click Here To Download: Bubbles_The_Dev-Screen-Recorder-App.EXE](https://github.com/KernFerm/screen-recorder-app/releases/tag/recorder)
 
 ## 🚀 Demo
 
