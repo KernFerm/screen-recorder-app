@@ -1,0 +1,52 @@
+# 🎥 Screen Recorder App 🖥️
+
+Welcome to the **Screen Recorder App**! This is a simple tool to record your screen with mouse highlighting to enhance visibility, perfect for creating tutorials or demos. 🖱️✨
+
+## Features 🚀
+
+- **Simple and Easy to Use** 🛠️
+- **Records Screen at 60 FPS** 🖥️💨
+- **Highlights Mouse Cursor** for Better Visibility 🖱️👀
+- **Saves Recording as an MP4 Video** 🎬
+
+## Installation 🔧
+
+To get started with this project, you'll need the following Python libraries:
+
+1. **OpenCV** `cv2`
+2. **Pillow** `PIL`
+3. **PyAutoGUI** `pyautogui`
+4. **NumPy** `numpy`
+5. **Tkinter** (usually included in Python)
+
+You can install the required libraries with:
+
+```
+pip install opencv-python-headless pillow pyautogui numpy
+```
+
+## Usage 💻
+
+1. **Clone this repository:**
+```
+git clone https://github.com/kernferm/screen-recorder-app.git
+```
+
+2. **Run the app:**
+
+```
+python main.py
+```
+
+3. **Start Recording:** Hit the `Start Recording` button to begin capturing your screen.
+4. **Stop Recording:** Click the `Stop Recording` button to save your recording as `screen_recording.mp4`.
+
+## How It Works 🧐
+
+- **Screen Recording:** The app captures screenshots using `pyautogui.screenshot()` at 60 FPS.
+- **Mouse Highlighting:** A green circle 🟢 is drawn around the current mouse pointer in every frame for better visibility.
+- **Saving Video:** The captured frames are saved as an MP4 file using `cv2.VideoWriter`.
+
+-------
+
+# Built with ❤️ by [Bubbles_The_Dev](https://github.com/kernferm)
