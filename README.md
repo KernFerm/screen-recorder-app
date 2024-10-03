@@ -1,4 +1,4 @@
-# 🎥 Screen Recorder App 🖥️
+# 🎥 Bubbles_The_Dev-Screen-Recorder 🖥️
 
 Welcome to the **Screen Recorder App**! This is a simple tool to record your screen with mouse highlighting to enhance visibility, perfect for creating tutorials or demos. 🖱️✨
 
