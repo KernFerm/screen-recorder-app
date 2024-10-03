@@ -11,6 +11,10 @@ Welcome to the **Screen Recorder App**! This is a simple tool to record your scr
 
 ### [Bubbles_The_Dev-Screen-Recorder-App.EXE](https://github.com/KernFerm/screen-recorder-app/releases/tag/recorder)
 
+## 🚀 Demo
+
+![Sample_Video](https://github.com/KernFerm/screen-recorder-app/blob/main/Sample_Video/screen_recording.mp4)
+
 ## Installation 🔧
 
 To get started with this project, you'll need the following Python libraries:
