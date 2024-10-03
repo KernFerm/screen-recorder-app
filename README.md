@@ -22,9 +22,8 @@ To get started with this project, you'll need the following Python libraries:
 5. **Tkinter** (usually included in Python)
 
 ### You will need Pet Python 
-```
-https://github.com/KernFerm/Py3.11.6installer
-```
+
+#### [Python 3.11.6](https://github.com/KernFerm/Py3.11.6installer)
 
 You can install the required libraries with:
 
