@@ -8,6 +8,9 @@ Welcome to the **Screen Recorder App**! This is a simple tool to record your scr
 - **Records Screen at 60 FPS** 🖥️💨
 - **Highlights Mouse Cursor** for Better Visibility 🖱️👀
 - **Saves Recording as an MP4 Video** 🎬
+- **To Share The `mp4 file` you may have to convert it to `mp4` or any format like `FLV`, `GIF` etc.**
+- [https://cloudconvert.com/mp4-converter](https://cloudconvert.com/mp4-converter)
+- [https://www.freeconvert.com/](https://www.freeconvert.com/)
 
 ### [Bubbles_The_Dev-Screen-Recorder-App.EXE](https://github.com/KernFerm/screen-recorder-app/releases/tag/recorder)
 
