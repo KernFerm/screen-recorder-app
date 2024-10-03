@@ -13,7 +13,7 @@ Welcome to the **Screen Recorder App**! This is a simple tool to record your scr
 
 ## 🚀 Demo
 
-
+![Sample Video](https://github.com/KernFerm/screen-recorder-app/blob/main/Sample_Video/screen_recording.gif)
 
 ## Installation 🔧
 
