@@ -58,5 +58,5 @@ python main.py
 -------
 # Built with ❤️ by [Bubbles_The_Dev](https://github.com/kernferm)
 -------
-### LICENSE
-## [License_Please_Read](https://github.com/KernFerm/screen-recorder-app/blob/main/LICENSE)
+## LICENSE
+### [License_Please_Read](https://github.com/KernFerm/screen-recorder-app/blob/main/LICENSE)
