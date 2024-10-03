@@ -25,6 +25,8 @@ You can install the required libraries with:
 pip install opencv-python-headless pillow pyautogui numpy
 ```
 
+### You can use the `install_dependecies.bat` to install the dependencies needed for project
+
 ## Usage 💻
 
 1. **Clone this repository:**
