@@ -10,7 +10,7 @@ import time
 class ScreenRecorderApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Screen Recorder")
+        self.root.title("BubblesTheDev Screen Recorder")
         self.root.geometry("400x200")
         
         # Variables for recording state
@@ -19,7 +19,7 @@ class ScreenRecorderApp:
         self.start_time = 0
 
         # UI Elements
-        self.label = tk.Label(root, text="Simple Screen Recorder", font=("Arial", 14))
+        self.label = tk.Label(root, text="BubblesTheDev Screen Recorder", font=("Arial", 14))
         self.label.pack(pady=10)
         
         self.start_button = tk.Button(root, text="Start Recording", command=self.start_recording, width=20)
