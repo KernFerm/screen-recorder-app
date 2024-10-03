@@ -9,6 +9,8 @@ Welcome to the **Screen Recorder App**! This is a simple tool to record your scr
 - **Highlights Mouse Cursor** for Better Visibility 🖱️👀
 - **Saves Recording as an MP4 Video** 🎬
 
+### [Bubbles_The_Dev-Screen-Recorder-App.EXE](https://github.com/KernFerm/screen-recorder-app/releases/tag/recorder)
+
 ## Installation 🔧
 
 To get started with this project, you'll need the following Python libraries:
