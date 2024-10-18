@@ -35,7 +35,7 @@ To get started with this project, you'll need the following Python libraries:
 You can install the required libraries with:
 
 ```
-pip install opencv-python-headless pillow pyautogui numpy Tkinter
+pip install opencv-python-headless pillow pyautogui numpy Tk
 ```
 
 ### You can use the `install_dependecies.bat` to install the dependencies needed for project
