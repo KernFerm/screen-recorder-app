@@ -61,8 +61,9 @@ class ScreenRecorderApp:
             # Append the frame to the list of frames
             self.frames.append(frame)
             
-            # Recursively call this function after 16ms (~60fps)
-            self.root.after(16, self.record_screen)
+            # Adjusted to a lower frame rate, e.g., 100ms for about 10 fps
+            self.root.after(100, self.record_screen)
+
 
     def save_video(self):
         if not self.frames:
