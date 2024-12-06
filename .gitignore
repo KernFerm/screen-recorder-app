@@ -1,0 +1,16 @@
+# Ignore all files and folders by default
+*
+
+# Do not ignore `.gitignore` itself
+!.gitignore
+
+# Allow MD, Batch, and Txt files
+!*.md
+!*.bat
+!*.txt
+
+# Ignore Python files
+*.py
+
+# Ignore the "screen-recorder-app-main" folder and its contents
+screen-recorder-app-main/
