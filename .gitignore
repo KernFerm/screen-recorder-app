@@ -4,10 +4,10 @@
 # Do not ignore `.gitignore` itself
 !.gitignore
 
-# Allow MD, Batch, and Txt files
-!*.md
-!*.bat
-!*.txt
+# Ignore MD, Batch, and Txt files
+*.md
+*.bat
+*.txt
 
 # Ignore Python files
 *.py
