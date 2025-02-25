@@ -1,5 +1,7 @@
+customtkinter
+dxcam
 opencv-python-headless
 Pillow
 pyautogui
 numpy
-Tk
+tk
