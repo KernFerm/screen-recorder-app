@@ -28,7 +28,7 @@ To get started with this project, you'll need the following Python libraries:
 - **dxcam** (for optimized screen capture)
 
 You can install these libraries using pip:
-
+- Dont have python?? use the `python3119.bat` to install python.
 ```
 pip install opencv-python-headless pillow pyautogui numpy customtkinter dxcam
 ```
