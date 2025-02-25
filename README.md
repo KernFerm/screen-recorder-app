@@ -1,18 +1,16 @@
 # 🎥 Bubbles_The_Dev-Screen Recorder 🖥️
 
-Welcome to the Screen Recorder App! This easy-to-use tool allows you to record your screen with built-in mouse highlighting for enhanced visibility. It's perfect for creating engaging tutorials, demonstrations, or sharing your workflow efficiently. 🖱️✨
+Welcome to the Bubbles_The_Dev Screen Recorder App! This user-friendly application allows you to capture your screen activities with enhanced mouse cursor visibility, making it perfect for creating tutorials, demonstrations, or efficiently sharing your digital workflow. 🖱️✨
 
 ## Features 🚀
 
-- **Simple and Easy to Use** 🛠️
-- **Records Screen at 60 FPS** 🖥️💨
-- **Highlights Mouse Cursor** for Better Visibility 🖱️👀
-- **Saves Recording as an MP4 Video** 🎬
-- **To Share The `mp4 file` you may have to convert it to `mp4` or any format like `FLV`, `GIF` etc.**
-- [https://cloudconvert.com/mp4-converter](https://cloudconvert.com/mp4-converter)
-- [https://www.freeconvert.com/](https://www.freeconvert.com/)
-
-### [Click Here To Download: Bubbles_The_Dev-Screen-Recorder-App.EXE](https://github.com/KernFerm/screen-recorder-app/releases/tag/recorder)
+- **Simple and Easy to Use Interface** 🛠️
+- **High-Quality Screen Recording at 60 FPS** 🖥️💨
+- **Mouse Cursor Highlighting** for better visibility during presentations and tutorials 🖱️👀
+- **Custom File Naming** for saving recordings as MP4 videos 🎬
+- **Conversion Links** to change the MP4 file to other formats like FLV, GIF, etc., for broader compatibility and sharing:
+  - [CloudConvert MP4 Converter](https://cloudconvert.com/mp4-converter)
+  - [FreeConvert](https://www.freeconvert.com/)
 
 ## 🚀 Demo
 
@@ -22,48 +20,57 @@ Welcome to the Screen Recorder App! This easy-to-use tool allows you to record y
 
 To get started with this project, you'll need the following Python libraries:
 
-1. **OpenCV** `cv2`
-2. **Pillow** `PIL`
-3. **PyAutoGUI** `pyautogui`
-4. **NumPy** `numpy`
-5. **Tkinter** (usually included in Python)
+- **OpenCV** (for video processing)
+- **Pillow** (for image handling)
+- **PyAutoGUI** (for screen capture and mouse operations)
+- **NumPy** (for handling frame arrays)
+- **customtkinter** (for a modern UI experience)
+- **dxcam** (for optimized screen capture)
 
-### You will need Pet Python 
-
-- #### [Python 3.11.6](https://github.com/KernFerm/Py3.11.6installer)
-
-You can install the required libraries with:
+You can install these libraries using pip:
 
 ```
-pip install opencv-python-headless pillow pyautogui numpy Tk
+pip install opencv-python-headless pillow pyautogui numpy customtkinter dxcam
 ```
 
-### You can use the `install_dependecies.bat` to install the dependencies needed for project
+- For easier setup, you can use the provided `install_dependencies.bat` to install all required dependencies.
 
 ## Usage 💻
 
-1. **Clone this repository:**
+1. Clone this repository:
+
 ```
 git clone https://github.com/kernferm/screen-recorder-app.git
 ```
 
-2. **Run the app:**
+2. Navigate to the project directory:
+
+```
+cd screen-recorder-app-main
+```
+
+3. Run the application:
 
 ```
 python main.py
 ```
 
-3. **Start Recording:** Hit the `Start Recording` button to begin capturing your screen.
-4. **Stop Recording:** Click the `Stop Recording` button to save your recording as `screen_recording.mp4`.
+4. **Start Recording**: Press the `Start Recording` button to begin capturing your screen activities.
+
+5. **Stop Recording**: Click the `Stop Recording` button once you're done to save your video.
 
 ## How It Works 🧐
 
-- **Screen Recording:** The app captures screenshots using `pyautogui.screenshot()` at 60 FPS.
-- **Mouse Highlighting:** A green circle 🟢 is drawn around the current mouse pointer in every frame for better visibility.
-- **Saving Video:** The captured frames are saved as an MP4 file using `cv2.VideoWriter`.
-
--------
+- **Screen Recording**: The app captures the screen using `dxcam` for efficient and high-quality video frames.
+- **Mouse Highlighting**: A green circle 🟢 is drawn around the mouse cursor in each frame to enhance its visibility.
+- **Saving the Video**: The frames are compiled and saved as an MP4 file, with an option for users to specify the file name.
+---
 # Built with ❤️ by [Bubbles_The_Dev](https://github.com/kernferm)
--------
+
+---
 ## LICENSE
-### [License_Please_Read](https://github.com/KernFerm/screen-recorder-app/blob/main/LICENSE)
+
+This project is proprietary and `all rights are reserved` by the author. 
+***Unauthorized copying***, ***distribution***, or ***modification*** of this project is **strictly prohibited**. 
+Unless You have written permission from the `Developer` or the `FNBUBBLES420 ORG`.
+---
