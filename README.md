@@ -14,7 +14,7 @@ Welcome to the Bubbles_The_Dev Screen Recorder App! This user-friendly applicati
 
 ## 🚀 Demo
 
-![Sample Video](https://github.com/KernFerm/screen-recorder-app/blob/main/Sample_Video/screen_recording.gif)
+- none
 
 ## Installation 🔧
 
