@@ -28,10 +28,11 @@ To get started with this project, you'll need the following Python libraries:
 - **dxcam** (for optimized screen capture)
 
 You can install these libraries using pip:
-- Dont have python?? use the `python3119.bat` to install python.
+
 ```
-pip install opencv-python-headless pillow pyautogui numpy customtkinter dxcam
+pip install opencv-python-headless pillow pyautogui numpy customtkinter dxcam pyarmor
 ```
+
 
 - For easier setup, you can use the provided `install_dependencies.bat` to install all required dependencies.
 
@@ -64,13 +65,18 @@ python main.py
 - **Screen Recording**: The app captures the screen using `dxcam` for efficient and high-quality video frames.
 - **Mouse Highlighting**: A green circle 🟢 is drawn around the mouse cursor in each frame to enhance its visibility.
 - **Saving the Video**: The frames are compiled and saved as an MP4 file, with an option for users to specify the file name.
+
 ---
+
 # Built with ❤️ by [Bubbles_The_Dev](https://github.com/kernferm)
 
 ---
+
 ## LICENSE
 
 This project is proprietary and `all rights are reserved` by the author. 
 ***Unauthorized copying***, ***distribution***, or ***modification*** of this project is **strictly prohibited**. 
-Unless You have written permission from the `Developer` or the `FNBUBBLES420 ORG`.
+Unless you have written permission from the `Developer` or `FNBUBBLES420 ORG`.
+
+---
 ---
