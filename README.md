@@ -16,6 +16,9 @@ Welcome to the Bubbles_The_Dev Screen Recorder App! This user-friendly applicati
 
 - none
 
+### Want use exe instead
+[Click here to download exe](https://github.com/KernFerm/screen-recorder-app/releases/tag/bubbles-the-dev-screen-recorder-exe)
+
 ## Installation 🔧
 
 To get started with this project, you'll need the following Python libraries:
