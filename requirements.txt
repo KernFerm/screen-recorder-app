@@ -5,3 +5,4 @@ pyautogui
 bettercam
 pyarmor
 tk
+pillow
