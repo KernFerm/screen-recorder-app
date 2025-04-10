@@ -33,7 +33,7 @@ To get started with this project, you'll need the following Python libraries:
 You can install these libraries using pip:
 
 ```
-pip install opencv-python-headless pillow pyautogui numpy customtkinter dxcam pyarmor
+pip install customtkinter opencv-python-headless numpy pyautogui bettercam pyarmor tk pillow
 ```
 
 
