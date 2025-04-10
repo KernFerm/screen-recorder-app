@@ -1,8 +1,7 @@
 customtkinter
-dxcam
 opencv-python-headless
-Pillow
-pyautogui
 numpy
-tk
+pyautogui
+bettercam
 pyarmor
+tk
