@@ -2,6 +2,8 @@
 
 Welcome to the Bubbles_The_Dev Screen Recorder App! This user-friendly application allows you to capture your screen activities with enhanced mouse cursor visibility, making it perfect for creating tutorials, demonstrations, or efficiently sharing your digital workflow. 🖱️✨
 
+- [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
+
 ## Features 🚀
 
 - **Simple and Easy to Use Interface** 🛠️
